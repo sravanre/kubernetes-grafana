@@ -14,7 +14,7 @@ data:
                 "name": "prometheus",
                 "orgId": 1,
                 "type": "prometheus",
-                "url": "http://prometheus.laplastech.cloud",
+                "url": "http://prometheus-service.monitoring.svc:80",
                 "version": 1
             }
         ]
