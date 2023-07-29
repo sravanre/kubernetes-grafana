@@ -9,7 +9,7 @@ spec:
   ingressClassName: nginx
   rules:
   # Use the host you used in your kubernetes Ingress Configurations
-  - host: grafana.laplastech.cloud
+  - host: grafana1.laplastech.cloud
     http:
       paths:
       - backend:
